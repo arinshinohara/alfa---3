@@ -274,7 +274,7 @@ button {
   line-height: 1.75;
   text-align: center;
   padding: 9px 20px;
-  background-color: #d9e021;
+  background-color: #444566;
   margin: 0 -20px 20px -20px;
 }
 
@@ -453,7 +453,7 @@ button {
 }
 
 .clear-message {
-  background-color: #d9e021;
+  background-color: #444566;
   padding: 30px 30px 60px;
   position: relative;
 }
