@@ -247,7 +247,7 @@ button {
 }
 
 .bg-color--gray {
-  background-color: #222233;
+  background-color: #ffffff;
 }
 
 /*********************
@@ -292,7 +292,7 @@ button {
 }
 
 .section-title--keycolor {
-  background-color: #444566;
+  background-color: #545680;
 }
 
 .section-title--story {
@@ -453,7 +453,7 @@ button {
 }
 
 .clear-message {
-  background-color: #545680;
+  background-color: #ffffff;
   padding: 30px 30px 60px;
   position: relative;
 }
