@@ -239,11 +239,11 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #ffffff;
+  background-color: #222233;
 }
 
 .bg-color--subcolor {
-  background-color: #222233;
+  background-color: #ffffff;
 }
 
 .bg-color--gray {
