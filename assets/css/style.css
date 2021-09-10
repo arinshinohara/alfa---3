@@ -243,11 +243,11 @@ button {
 }
 
 .bg-color--subcolor {
-  background-color: #d9e021;
+  background-color: #222233;
 }
 
 .bg-color--gray {
-  background-color: #e6e6e6;
+  background-color: #222233;
 }
 
 /*********************
@@ -292,7 +292,7 @@ button {
 }
 
 .section-title--keycolor {
-  background-color: #222233;
+  background-color: #444566;
 }
 
 .section-title--story {
